@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m completed the Fullstack stream of the Code First Girls degree (Summer 2024)
-- ✨ I'm an Associate Software Developer
+- 🔭 Fullstack | Code First Girls degree | Summer 2024
+- ✨ Associate Software Developer
 - 🌱 I’m currently focussing on improving my JavaScript, React ⚛️, and C#
 
 
